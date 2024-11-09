@@ -44,4 +44,18 @@ _you can **Combine** both_
 1. First
 2. Second
 3. Third
-4. 
+
+# Links
+[Arewa DataScience](https://www.google.com/search?q=arewa+data+science&oq=)
+
+# Image
+
+
+# Code and Syntax
+''' Python
+print('hello')
+'''
+
+# Tables
+| Name | Role | Department|
+|------|------|-----------|
