@@ -1,7 +1,7 @@
 # Markdown-Learning
 A class to learn how to write on Github using markdown
 
-# Tutorial
+# Headings
 
 ## This is two level heading
 
@@ -21,7 +21,8 @@ _This is italicized_
 _you can **Combine** both_
 
 # List
-Unordered List
+- There basically two types of list; Ordered and unordered list
+## Unordered List
 - Number 1
     - Nested 1
     - Nested 2
@@ -38,3 +39,9 @@ Unordered List
 +  Number 1
 +  Number 2
 +  Number 3
+  
+# Ordered List
+1. First
+2. Second
+3. Third
+4. 
