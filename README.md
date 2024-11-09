@@ -11,3 +11,6 @@ A class to learn how to write on Github using markdown
 
 ##### This is five level heading
 ###### This is six level heading
+
+# Bold
+**This text is bolded**
